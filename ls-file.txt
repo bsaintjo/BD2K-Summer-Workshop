@@ -1,0 +1,16 @@
+1-Introduction.ipynb
+2-Shell-and-Git.ipynb
+3-Anaconda-Pandas-Dataframes.ipynb
+4-Evolution-and-Mutations.ipynb
+5-Visualization.ipynb
+6-Next-Generation-Sequencing.ipynb
+Bonus-SSH-and-Cloud-Computing.ipynb
+Pipfile
+TODO
+data
+images
+install.sh
+ls-file.txt
+style-notebook.css
+style-table.css
+5-Visualization.ipynb
